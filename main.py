@@ -2,6 +2,10 @@ import youtube_dl
 from pytube import YouTube
 from tkinter import *
 
+"""
+Ce code permet de telecharger des videos/musiques depuis youtube...
+"""
+
 #variable de couleurs
 bg="#373737"
 fg="orange"
